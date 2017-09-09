@@ -21,7 +21,7 @@ from attila.fs.proxies import ProxyFile
 
 
 __author__ = 'Aaron Hosford'
-__author_email__ = 'aaron.hosford@ericsson.com'
+__author_email__ = 'hosford42@gmail.com'
 __version__ = '0.0'
 __url__ = 'https://scmgr.eams.ericsson.net/PythonLibs/attila_https'
 __description__ = 'Requests-based Attila plugin for HTTPS support'
